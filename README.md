@@ -1,4 +1,4 @@
-# sync-vs-async
+# sync-vs-async (w. 블로킹과 논블로킹)
 
 ## 동기와 비동기
 
